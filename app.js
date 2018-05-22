@@ -1,5 +1,6 @@
 (function() {
   'use strict';
+   console.log('hellow123456');
 
   angular
     .module('app', ['ngRoute', 'ngCookies'])
